@@ -1,0 +1,165 @@
+"Activity, Exercise or Sport (1 hour)",130 lb,155 lb,180 lb,205 lb,Calories per kg,Outdoor / Indoor
+"Cycling, mountain bike, bmx",502,598,695,791,1.75072971940299,Outdoor
+"Cycling, <10 mph, leisure bicycling",236,281,327,372,0.823235629850746,Outdoor
+"Cycling, >20 mph, racing",944,1126,1308,1489,3.29497352835821,Outdoor
+"Cycling, 10-11.9 mph, light",354,422,490,558,1.23485344477612,Outdoor
+"Cycling, 12-13.9 mph, moderate",472,563,654,745,1.64782526567164,Outdoor
+"Cycling, 14-15.9 mph, vigorous",590,704,817,931,2.05944308059702,Outdoor
+"Cycling, 16-19 mph, very fast, racing",708,844,981,1117,2.47106089552239,Outdoor
+Unicycling,295,352,409,465,1.02972154029851,Outdoor
+"Stationary cycling, very light",177,211,245,279,0.61742672238806,Indoor
+"Stationary cycling, light",325,387,449,512,1.13262599402985,Indoor
+"Stationary cycling, moderate",413,493,572,651,1.44133935522388,Indoor
+"Stationary cycling, vigorous",620,739,858,977,2.16234753432836,Indoor
+"Stationary cycling, very vigorous",738,880,1022,1163,2.57464235223881,Indoor
+"Calisthenics, vigorous, pushups, situps…",472,563,654,745,1.64782526567164,Indoor
+"Calisthenics, light",207,246,286,326,0.721008179104478,Indoor
+"Circuit training, minimal rest",472,563,654,745,1.64782526567164,Indoor
+"Weight lifting, body building, vigorous",354,422,490,558,1.23485344477612,Indoor
+"Weight lifting, light workout",177,211,245,279,0.61742672238806,Indoor
+Health club exercise,325,387,449,512,1.13262599402985,Indoor
+Stair machine,531,633,735,838,1.85295717014925,Indoor
+"Rowing machine, light",207,246,286,326,0.721008179104478,Indoor
+"Rowing machine, moderate",413,493,572,651,1.44133935522388,Indoor
+"Rowing machine, vigorous",502,598,695,791,1.75072971940299,Indoor
+"Rowing machine, very vigorous",708,844,981,1117,2.47106089552239,Indoor
+Ski machine,413,493,572,651,1.44133935522388,Indoor
+"Aerobics, low impact",295,352,409,465,1.02972154029851,Indoor
+"Aerobics, high impact",413,493,572,651,1.44133935522388,Indoor
+"Aerobics, step aerobics",502,598,695,791,1.75072971940299,Indoor
+"Aerobics, general",384,457,531,605,1.33843490149254,Indoor
+Jazzercise,354,422,490,558,1.23485344477612,Indoor
+"Stretching, hatha yoga",236,281,327,372,0.823235629850746,Indoor
+Mild stretching,148,176,204,233,0.515199271641791,Indoor
+Water aerobics,236,281,327,372,0.823235629850746,Indoor
+"Ballet, twist, jazz, tap",266,317,368,419,0.927494089552239,Indoor
+"Ballroom dancing, slow",177,211,245,279,0.61742672238806,Indoor
+"Ballroom dancing, fast",325,387,449,512,1.13262599402985,Indoor
+"Running, 5 mph (12 minute mile)",472,563,654,745,1.64782526567164,Outdoor
+"Running, 5.2 mph (11.5 minute mile)",531,633,735,838,1.85295717014925,Outdoor
+"Running, 6 mph (10 min mile)",590,704,817,931,2.05944308059702,Outdoor
+"Running, 6.7 mph (9 min mile)",649,774,899,1024,2.2652519880597,Outdoor
+"Running, 7 mph (8.5 min mile)",679,809,940,1070,2.36815644179104,Outdoor
+"Running, 7.5mph (8 min mile)",738,880,1022,1163,2.57464235223881,Outdoor
+"Running, 8 mph (7.5 min mile)",797,950,1103,1256,2.77977425671642,Outdoor
+"Running, 8.6 mph (7 min mile)",826,985,1144,1303,2.88267871044776,Outdoor
+"Running, 9 mph (6.5 min mile)",885,1056,1226,1396,3.08916462089552,Outdoor
+"Running, 10 mph (6 min mile)",944,1126,1308,1489,3.29497352835821,Outdoor
+"Running, 10.9 mph (5.5 min mile)",1062,1267,1471,1675,3.70659134328358,Outdoor
+"Running, cross country",531,633,735,838,1.85295717014925,Outdoor
+"Running, general",472,563,654,745,1.64782526567164,Outdoor
+"Running, on a track, team practice",590,704,817,931,2.05944308059702,Outdoor
+"Running, stairs, up",885,1056,1226,1396,3.08916462089552,Outdoor
+"Track and field (shot, discus)",236,281,327,372,0.823235629850746,Outdoor
+"Track and field (high jump, pole vault)",354,422,490,558,1.23485344477612,Outdoor
+Track and field (hurdles),590,704,817,931,2.05944308059702,Outdoor
+Archery,207,246,286,326,0.721008179104478,Indoor
+Badminton,266,317,368,419,0.927494089552239,Outdoor
+"Basketball game, competitive",472,563,654,745,1.64782526567164,Outdoor
+"Playing basketball, non game",354,422,490,558,1.23485344477612,Outdoor
+Bowling,177,211,245,279,0.61742672238806,Indoor
+"Boxing, in ring",708,844,981,1117,2.47106089552239,Indoor
+"Boxing, punching bag",354,422,490,558,1.23485344477612,Indoor
+"Boxing, sparring",531,633,735,838,1.85295717014925,Indoor
+"Cricket (batting, bowling)",295,352,409,465,1.02972154029851,Outdoor
+Croquet,148,176,204,233,0.515199271641791,Outdoor
+Curling,236,281,327,372,0.823235629850746,Indoor
+Darts (wall or lawn),148,176,204,233,0.515199271641791,Indoor
+Fencing,354,422,490,558,1.23485344477612,Indoor
+"Football, competitive",531,633,735,838,1.85295717014925,Outdoor
+"Football, touch, flag, general",472,563,654,745,1.64782526567164,Outdoor
+"Football or baseball, playing catch",148,176,204,233,0.515199271641791,Outdoor
+"Frisbee playing, general",177,211,245,279,0.61742672238806,Outdoor
+"Frisbee, ultimate frisbee",472,563,654,745,1.64782526567164,Outdoor
+"Golf, general",266,317,368,419,0.927494089552239,Outdoor
+Gymnastics,236,281,327,372,0.823235629850746,Indoor
+Hacky sack,236,281,327,372,0.823235629850746,Outdoor
+Handball,708,844,981,1117,2.47106089552239,Indoor
+"Handball, team",472,563,654,745,1.64782526567164,Indoor
+"Hockey, field hockey",472,563,654,745,1.64782526567164,Indoor
+"Hockey, ice hockey",472,563,654,745,1.64782526567164,Indoor
+Jai alai,708,844,981,1117,2.47106089552239,Indoor
+"Martial arts, judo, karate, jujitsu",590,704,817,931,2.05944308059702,Indoor
+"Martial arts, kick boxing",590,704,817,931,2.05944308059702,Indoor
+"Martial arts, tae kwan do",590,704,817,931,2.05944308059702,Indoor
+Krav maga training,590,704,817,931,2.05944308059702,Indoor
+Juggling,236,281,327,372,0.823235629850746,Indoor
+Kickball,413,493,572,651,1.44133935522388,Outdoor
+Lacrosse,472,563,654,745,1.64782526567164,Outdoor
+Orienteering,531,633,735,838,1.85295717014925,Outdoor
+"Paddleball, non-competitive",354,422,490,558,1.23485344477612,Outdoor
+"Paddleball, competitive",590,704,817,931,2.05944308059702,Outdoor
+Polo,472,563,654,745,1.64782526567164,Outdoor
+"Racquetball, competitive",590,704,817,931,2.05944308059702,Indoor
+"Racquetball, non-competitive",413,493,572,651,1.44133935522388,Indoor
+"Rock climbing, ascending rock",649,774,899,1024,2.2652519880597,Indoor
+"Rock climbing, rappelling",472,563,654,745,1.64782526567164,Indoor
+"Jumping rope, fast",708,844,981,1117,2.47106089552239,Indoor
+"Jumping rope, moderate",590,704,817,931,2.05944308059702,Indoor
+"Jumping rope, slow",472,563,654,745,1.64782526567164,Indoor
+Rugby,590,704,817,931,2.05944308059702,Outdoor
+Skateboarding,295,352,409,465,1.02972154029851,Outdoor
+Roller skating,413,493,572,651,1.44133935522388,Outdoor
+"Roller blading, in-line skating",708,844,981,1117,2.47106089552239,Outdoor
+"Soccer, competitive",590,704,817,931,2.05944308059702,Outdoor
+"Soccer, non-competitive",413,493,572,651,1.44133935522388,Outdoor
+Softball or baseball,295,352,409,465,1.02972154029851,Outdoor
+"Softball, officiating",236,281,327,372,0.823235629850746,Outdoor
+"Softball, pitching",354,422,490,558,1.23485344477612,Outdoor
+Squash,708,844,981,1117,2.47106089552239,Indoor
+"Table tennis, ping pong",236,281,327,372,0.823235629850746,Indoor
+Tai chi,236,281,327,372,0.823235629850746,Indoor
+"Tennis, doubles",354,422,490,558,1.23485344477612,Outdoor
+"Tennis, singles",472,563,654,745,1.64782526567164,Outdoor
+Trampoline,207,246,286,326,0.721008179104478,Indoor
+"Volleyball, competitive",472,563,654,745,1.64782526567164,Outdoor
+"Volleyball, non-competitive",177,211,245,279,0.61742672238806,Outdoor
+Wrestling,354,422,490,558,1.23485344477612,Outdoor
+Wallyball,413,493,572,651,1.44133935522388,Outdoor
+"Backpacking, Hiking with pack",413,493,572,651,1.44133935522388,Outdoor
+"Hiking, cross country",354,422,490,558,1.23485344477612,Outdoor
+Bird watching,148,176,204,233,0.515199271641791,Outdoor
+Race walking,384,457,531,605,1.33843490149254,Outdoor
+"Rock climbing, mountain climbing",472,563,654,745,1.64782526567164,Outdoor
+"Walking, under 2.0 mph, very slow",118,141,163,186,0.411617814925373,Outdoor
+"Walking 2.0 mph, slow",148,176,204,233,0.515199271641791,Outdoor
+Walking 2.5 mph,177,211,245,279,0.61742672238806,Outdoor
+"Walking 3.0 mph, moderate",195,232,270,307,0.679710997014925,Outdoor
+"Walking 3.5 mph, brisk pace",224,267,311,354,0.782615450746269,Outdoor
+"Walking 4.0 mph, very brisk",295,352,409,465,1.02972154029851,Outdoor
+Walking 4.5 mph,372,443,515,586,1.29713771940299,Outdoor
+Walking 5.0 mph,472,563,654,745,1.64782526567164,Outdoor
+"Boating, power, speed boat",148,176,204,233,0.515199271641791,Outdoor
+"Canoeing, camping trip",236,281,327,372,0.823235629850746,Outdoor
+"Canoeing, rowing, light",177,211,245,279,0.61742672238806,Outdoor
+"Canoeing, rowing, moderate",413,493,572,651,1.44133935522388,Outdoor
+"Canoeing, rowing, vigorous",708,844,981,1117,2.47106089552239,Outdoor
+"Crew, sculling, rowing, competition",708,844,981,1117,2.47106089552239,Outdoor
+Kayaking,295,352,409,465,1.02972154029851,Outdoor
+"Whitewater rafting, kayaking, canoeing",295,352,409,465,1.02972154029851,Outdoor
+"Swimming laps, freestyle, fast",590,704,817,931,2.05944308059702,Indoor
+"Swimming laps, freestyle, slow",413,493,572,651,1.44133935522388,Indoor
+Swimming backstroke,413,493,572,651,1.44133935522388,Indoor
+Swimming breaststroke,590,704,817,931,2.05944308059702,Indoor
+Swimming butterfly,649,774,899,1024,2.2652519880597,Indoor
+"Swimming leisurely, not laps",354,422,490,558,1.23485344477612,Indoor
+Swimming sidestroke,472,563,654,745,1.64782526567164,Indoor
+Swimming synchronized,472,563,654,745,1.64782526567164,Indoor
+"Swimming, treading water, fast, vigorous",590,704,817,931,2.05944308059702,Indoor
+"Swimming, treading water, moderate",236,281,327,372,0.823235629850746,Indoor
+"Water aerobics, water calisthenics",236,281,327,372,0.823235629850746,Indoor
+Water polo,590,704,817,931,2.05944308059702,Indoor
+Water volleyball,177,211,245,279,0.61742672238806,Indoor
+Water jogging,472,563,654,745,1.64782526567164,Indoor
+"Cross country snow skiing, slow",413,493,572,651,1.44133935522388,Outdoor
+"Cross country skiing, moderate",472,563,654,745,1.64782526567164,Outdoor
+"Cross country skiing, vigorous",531,633,735,838,1.85295717014925,Outdoor
+"Cross country skiing, racing",826,985,1144,1303,2.88267871044776,Outdoor
+General housework,207,246,286,326,0.721008179104478,Indoor
+"Mowing lawn, walk, power mower",325,387,449,512,1.13262599402985,Outdoor
+"Mowing lawn, riding mower",148,176,204,233,0.515199271641791,Outdoor
+"Gardening, general",236,281,327,372,0.823235629850746,Outdoor
+Watering lawn or garden,89,106,123,140,0.310067367164179,Outdoor
+"Weeding, cultivating garden",266,317,368,419,0.927494089552239,Outdoor
+General cleaning,207,246,286,326,0.721008179104478,Indoor
+"Cleaning, dusting",148,176,204,233,0.515199271641791,Indoor
